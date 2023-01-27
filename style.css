@@ -50,7 +50,7 @@
 }
 .image{
     height: 30rem;
-    width: 41rem;
+    width: 34rem;
     margin-top: 3px;
 }
 .devInfo{
@@ -59,7 +59,7 @@
     flex-direction: column; 
     font-family: 'EB Garamond', serif;
     font-family: 'PT Serif', serif;
-    margin-left: 84px;
+    margin-left: 10px;
     color:bisque
 }
 .hello{
